@@ -1,1 +1,5 @@
+/.vs/*
 /Web/bin/*
+/Web/obj/*
+/Web.Test/bin/*
+/Web.Test/obj/*
