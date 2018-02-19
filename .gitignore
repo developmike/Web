@@ -1,5 +1,5 @@
 /.vs/*
 /Web/bin/*
 /Web/obj/*
-/Web.Test/bin/*
-/Web.Test/obj/*
+Tests/Web.Tests/bin/*
+Tests/Web.Tests/obj/*
